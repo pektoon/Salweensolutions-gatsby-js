@@ -1,0 +1,69 @@
+[
+  {
+    "title": "Ton",
+    "position": "Senior Developer",
+    "description": "No work day is complete without a Scrum meeting. When I have free time I spend it doing push-ups and sit-ups.",
+    "image": "../images/Ton.png"
+  },
+  {
+    "title": "Orc",
+    "position": "Senior Developer",
+    "description": "No work day is complete without TASKS When I have free time I spend it PLAYING GAMES",
+    "image": "../images/Orc.png"
+  },
+
+  {
+    "title": "Phyo",
+    "position": "Software Developer",
+    "description": "No work day is complete without a cup of coffee. When I have free time I spend it reading or watching football matches.",
+    "image": "../images/Phyo.png"
+  },
+
+  {
+    "title": "Koon",
+    "position": "Software Developer",
+    "description": "No work day is complete without some great food.. When I have free time I spend it working out and traveling.",
+    "image": "../images/Koon.png"
+  },
+
+  {
+    "title": "Santi",
+    "position": "Graphic designer",
+    "description": "No work day is complete without amusement When I have free time I spend it listening to music.",
+    "image": "../images/Santi.png"
+  },
+
+  {
+    "title": "Fai",
+    "position": "Software Developer",
+    "description": "No work day is complete without learning When I have free time I spend it planting trees, reading books, and watching movies.",
+    "image": "../images/Fai.png"
+  },
+
+  {
+    "title": "Pek",
+    "position": "Software Developer",
+    "description": "No work day is complete without some snacks. When I have free time I spend it reading and watching YouTube channels.",
+    "image": "../images/Pek.png"
+  },
+
+  {
+    "title": "James",
+    "position": "Software Developer",
+    "description": "No work day is complete without a bar of chocolate. When I have free time I spend it practicing my programming skills.",
+    "image": "../images/James.png"
+  },
+  {
+    "title": "Ying",
+    "position": "Software Developer",
+    "description": "No work day is complete without thinking. When I have free time I spend it grow cactus and listen to the music.",
+    "image": "../images/Ying.png"
+  },
+  {
+    "title": "Tul",
+    "position": "Software Developer",
+    "description": "No work day is complete without pushing commits. When I have free time I spend it on gaming, coding, and travelling.",
+    "image": "../images/Tul.png"
+  }
+]
+

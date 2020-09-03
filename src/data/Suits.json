@@ -1,0 +1,14 @@
+[
+    {
+      "title": "Charles",
+      "position": "Managing Director",
+      "description": "No work day is complete without podcasts and to-do lists. No work day is complete without podcasts and to-do lists.",
+      "image": "../images/Charles.png"
+    },
+    {
+    "title": "Jun",
+    "position": "Administration and HR Manager",
+    "description": "No work day is complete without my favorite coffee AHa. When I have free time I spend it playing with my three dogs.",
+    "image": "../images/Jun.png"
+    }
+]

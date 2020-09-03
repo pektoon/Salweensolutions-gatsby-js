@@ -1,0 +1,75 @@
+[
+  {
+    "title": "Orchard",
+    "image": "../images/logo-01.png"
+  },
+  {
+    "title": ".Net Core",
+    "image": "../images/logo-02.png"
+  },
+  {
+      "title": "ReactJS",
+      "image": "../images/logo-03.png"
+    },
+    {
+      "title": "React Native",
+      "image": "../images/logo-04.png"
+    },
+    {
+      "title": "C# 6.0",
+      "image": "../images/logo-05.png"
+    },
+    {
+      "title": "Cordova",
+      "image": "../images/logo-06.png"
+    },
+    {
+      "title": "Git and Github",
+      "image": "../images/logo-07.png"
+    },
+    {
+      "title": "HTML5",
+      "image": "../images/logo-08.png"
+    },
+    {
+      "title": "CSS3",
+      "image": "../images/logo-09.png"
+    },
+    {
+      "title": "Java",
+      "image": "../images/logo-10.png"
+    },
+    {
+      "title": "Javascript",
+      "image": "../images/logo-11.png"
+    },
+    {
+      "title": "jQuery",
+      "image": "../images/logo-12.png"
+    },
+    {
+      "title": "Objective C",
+      "image": "../images/logo-13.png"
+    },
+    {
+      "title": "Python",
+      "image": "../images/logo-14.png"
+    },
+    {
+      "title": "Selenium",
+      "image": "../images/logo-15.png"
+    },
+    {
+      "title": "Slack",
+      "image": "../images/logo-16.png"
+    },
+    {
+      "title": "Trello and Trello API",
+      "image": "../images/logo-17.png"
+    },
+    {
+      "title": "Window Azure",
+      "image": "../images/logo-18.png"
+    }
+
+]

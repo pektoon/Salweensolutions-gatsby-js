@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Web applications",
+    "description": "Usable, Responsive, and Secure Applications",
+    "image": "../images/icon-01.png"
+  },
+    {
+    "title": "Mobile apps",
+    "description": "Apps developed for iOS and Android platforms",
+    "image": "../images/icon-02.png"
+  },
+  {
+    "title": "Desktop applications",
+    "description": "Universal Windows Platform (UWP) apps Windows desktop apps macOS apps",
+    "image": "../images/icon-01.png"
+  }
+
+
+]
